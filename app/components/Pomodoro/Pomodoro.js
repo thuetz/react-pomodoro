@@ -192,7 +192,7 @@ export default class Pomodoro extends React.Component {
     return (
       <div className="pomodoro">
         <GithubCorner
-          href="https://github.com/afonsopacifer/react-pomodoro"
+          href="https://github.com/thuetz/react-pomodoro"
           bannerColor="#2BA0A0"
           octoColor="#272727"
         />
